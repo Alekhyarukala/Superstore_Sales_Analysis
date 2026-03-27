@@ -24,5 +24,5 @@ This project analyzes a Superstore sales dataset to provide insights into busine
 - Overall profit margin is 14% → evaluate cost-saving opportunities
 
 ## 📂 Files Included
-- `Superstore_Sales_Dashboard.pbix` → Power BI file
+- `Superstore_sales_Analysis.pbix` → Power BI file
 - Screenshots of dashboard visuals (optional)
