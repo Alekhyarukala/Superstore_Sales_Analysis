@@ -25,4 +25,3 @@ This project analyzes a Superstore sales dataset to provide insights into busine
 
 ## 📂 Files Included
 - `Superstore_sales_Analysis.pbix` → Power BI file
-- Screenshots of dashboard visuals (optional)
